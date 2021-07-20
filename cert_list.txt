@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/vds-cert/certs/main/certs/FA_barcode_signer-B1.key.crt
+https://raw.githubusercontent.com/vds-cert/certs/main/certs/FA_barcode_signer-B2.key.crt
+https://raw.githubusercontent.com/vds-cert/certs/main/certs/UT_barcode_signer-B1.key_2.crt
+https://raw.githubusercontent.com/vds-cert/certs/main/certs/UT_barcode_signer-B2.key.crt
+https://raw.githubusercontent.com/vds-cert/certs/main/certs/barcode_signer-B1.crt
+https://raw.githubusercontent.com/vds-cert/certs/main/certs/barcode_signer-B2.crt
