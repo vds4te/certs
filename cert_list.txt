@@ -1,11 +1,3 @@
-https://raw.githubusercontent.com/vds-cert/certs/main/certs/FA_barcode_signer-B1.key.crt
-https://raw.githubusercontent.com/vds-cert/certs/main/certs/FA_barcode_signer-B2.key.crt
-https://raw.githubusercontent.com/vds-cert/certs/main/certs/UT_barcode_signer-B1.key_2.crt
-https://raw.githubusercontent.com/vds-cert/certs/main/certs/UT_barcode_signer-B2.key.crt
-https://raw.githubusercontent.com/vds-cert/certs/main/certs/barcode_signer-B1.crt
-https://raw.githubusercontent.com/vds-cert/certs/main/certs/barcode_signer-B2.crt
-https://raw.githubusercontent.com/vds-cert/certs/main/certs/BSC2.crt
-https://raw.githubusercontent.com/vds-cert/certs/main/certs/BSC1.crt
 https://raw.githubusercontent.com/vds-cert/certs/main/certs/UT_A1_2.crt
 https://raw.githubusercontent.com/vds-cert/certs/main/certs/UT_A2_3.crt
 https://raw.githubusercontent.com/vds-cert/certs/main/certs/UT_A3_4.crt
