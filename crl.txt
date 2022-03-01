@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA2.crl
 https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA20.crl
 https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA4.crl
 https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA8.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/AR.xx00.crl
