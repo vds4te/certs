@@ -11,3 +11,4 @@ https://raw.githubusercontent.com/vds-cert/certs/main/crl/fi-crl.crl
 https://raw.githubusercontent.com/vds-cert/certs/main/crl/ACSCAeMRTD.crl
 https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA-FRANCE_TEST_310.crl
 https://raw.githubusercontent.com/vds-cert/certs/main/crl/ItalianCountrySignerCATEST.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/MaltaCountrySigningCA.crl
