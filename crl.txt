@@ -1,0 +1,17 @@
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA1.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA16.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA2.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA20.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA4.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA8.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/AR.xx00.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/che_test_crl.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/CRL_FA_BE.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/fi-crl.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/ACSCAeMRTD.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA-FRANCE_TEST_310.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/ItalianCountrySignerCATEST.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/MaltaCountrySigningCA.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/CRL-Slovenia.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/CSCA_CRL.crl
+https://raw.githubusercontent.com/vds-cert/certs/main/crl/cstest_hr_crlfile.crl
